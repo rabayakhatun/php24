@@ -1,10 +1,12 @@
-<!DOCTYPE html>
+<!---DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Exercise 1: Getting Started with PHP - Keya</title>
-</head>
+</head> -->
+
+<?php include 'header.php'; ?>
 <body>
 <h3> 3.1 Write PHP code to output the following message: 
         Heello world! my name is "Keya"
@@ -50,5 +52,7 @@
     <h3>Take a screenshot that confirms your development environment setup and
          include it as an image in the "ex1.php" fil:</h3> 
          <img src="images\Ex1.png" />
+         
+         <?php include 'footer.php'; ?> 
 </body>
 </html>
