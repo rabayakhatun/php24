@@ -30,3 +30,13 @@ hr {
     margin-bottom: 50px;
     width: 75%;
 }
+.footer
+{
+    
+    
+    
+    padding: 10px;
+    position: sticky;
+    bottom: 0;
+
+}

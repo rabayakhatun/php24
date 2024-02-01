@@ -2,11 +2,12 @@
 <html>
 <head>
     <title>Fix My Cycle</title>
+    <a href="neeru.css"></a>
     <!-- Add your CSS, JavaScript, etc. here -->
 </head>
 
 
-    <footer>
+    <footer class="footer">
               <!--Footer Section Start-->
               <div class="bg_dark px-5 py-5 text-white">
 

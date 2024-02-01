@@ -36,7 +36,7 @@
                             <a class="nav-link" href="Ex4.php">Exercise 04</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="ex2_1.php">SECOND PAGE</a>
+                            <a class="nav-link" href="ex2_1.php">Exercise 05</a>
                         </li>
                         <li class="nav-item">
                             <button class="buttonOrg">LOGIN</button>

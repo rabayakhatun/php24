@@ -1,8 +1,8 @@
 
 <?php include 'header.php'; ?>
-
+<center>
 <div class="container">
-<h1>THIS IS HOME PAGE</h1>
+<h1>WELLCOME TO OUR PAGE</h1>
 </div>
-
+</center>
 <?php include 'footer.php'; ?>
