@@ -1,7 +1,7 @@
 /*Footer*/
 
 .table {
-    width: unset;
+    width: none;
     --bs-table-color: none;
     --bs-table-bg: none;
     border-color: unset;
@@ -35,7 +35,7 @@ hr {
     
     
     
-    padding: 10px;
+    padding: 15px;
     position: sticky;
     bottom: 0;
 

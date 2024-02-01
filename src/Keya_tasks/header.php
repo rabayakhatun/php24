@@ -9,7 +9,7 @@
     <link href="css/keya.css" rel="stylesheet">
     <link href="css/neeru.css" rel="stylesheet">
     <link href="css/mudathir.css" rel="stylesheet">
-    <link href="">
+    <link href="Form.css" rel="stylesheet">
 </head>
 <body>
     <header>
@@ -37,6 +37,12 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="ex2_1.php">Exercise 05</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="ex2_1.php">Exercise 06</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="ex2_1.php">Exercise 07</a>
                         </li>
                         <li class="nav-item">
                             <button class="buttonOrg">LOGIN</button>
