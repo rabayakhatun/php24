@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<footer class="footer">
+<footer class="">
               <!--Footer Section Start-->
 <div class="bg_dark px-5 py-5 text-white">
     <h3 class="fw-bolder md-5"> CONTACT US</h3>

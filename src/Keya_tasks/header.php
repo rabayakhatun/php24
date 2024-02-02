@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fix My Cycle</title>
+    <title><?php echo $title;?></title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="fontawesome-free-6.5.1-web/css/all.min.css">
     <link href="css/general.css" rel="stylesheet">
