@@ -1,5 +1,4 @@
 <?php
-$title = "Exercise 4: Variable, Strings & Operatiors";
 include 'header.php'; ?>
 
 <h5> Let's First Check if you're Eligible for Vote</h5>

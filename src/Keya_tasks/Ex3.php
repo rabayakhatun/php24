@@ -1,5 +1,4 @@
 <?php
-$title = "Exercise 3: variable, Strings & Operatiors";
 include 'header.php'; ?>
 
 
@@ -38,22 +37,7 @@ include 'header.php'; ?>
      ?>
      <br>
 
-<h5 class="mt-5">Browser Detection: </h5>
-    <?php
 
-    $browser = $_SERVER['HTTP_USER_AGENT'];
-
-    if (strpos($browser, 'Firefox') !== false) {
-        echo "You are using Firefox.";
-    } elseif (strpos($browser, 'Chrome') !== false) {
-        echo "You are using Chrome.";
-    } elseif (strpos($browser, 'Edge') !== false) {
-        echo "You are using Microsoft Edge.";
-    } else {
-        echo "Unable to detect...";
-    }
-
-    ?>
 
 </div>
 

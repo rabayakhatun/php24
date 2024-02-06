@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Fix My Cycle</title>
-    <a href="neeru.css"></a>
-    <!-- Add your CSS, JavaScript, etc. here -->
-</head>
-
-<body>
-<footer class="">
+<footer>
               <!--Footer Section Start-->
 <div class="bg_dark px-5 py-5 text-white">
     <h3 class="fw-bolder md-5"> CONTACT US</h3>
-    <table class="table ">
+    <table class="Mytable">
         <tr>
             <td>
                 Reach Us At
@@ -53,7 +44,12 @@
     ?>
     </center>
 
+<div class="container mt-5">
+            <p>
+                <center>
+                <?php echo "Browser: " . $_SERVER['HTTP_USER_AGENT']; ?>
+                </center>
+            </p>
+</div>
 </div>
 </footer>
-</body>
-</html>
